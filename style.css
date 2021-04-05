@@ -1,0 +1,7 @@
+.container {
+    margin: auto !important;
+    width: 50% !important;
+    border: 3px solid #b60e0e !important;
+    padding: 10px !important;
+    align-items: center !important;
+  }
